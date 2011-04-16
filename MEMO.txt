@@ -1,0 +1,12 @@
+
+* note
+- http://tomazkovacic.com/blog/14/extracting-article-text-from-html-documents/
+- http://code.google.com/p/boilerpipe/
+
+* TODO
+- next page link and fetch
+- empty/non-html page
+- frame
+- flags and retry with changed flags
+
+- youtube/vimeo rescue
